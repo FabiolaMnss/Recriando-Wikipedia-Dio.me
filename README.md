@@ -22,9 +22,9 @@ Cada item apresenta:
 
 ---
 
-## ✅ Acessibilidade Aplicada
+## ✅ Estrutura semântica e Acessibilidade Aplicada
 
-Foram adotadas boas práticas de acessibilidade, como:
+Foram adotadas boas práticas de estrutura semântica e acessibilidade como:
 
 - Uso de tags semânticas (`header`, `main`, `section`, `figure`, `figcaption`, `footer`, entre outras)  
 - Inclusão de textos alternativos (`alt`) em todas as imagens  
